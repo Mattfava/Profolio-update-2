@@ -1,0 +1,31 @@
+.card{
+    float: left;
+    left: auto;
+    padding: 10 px;
+    width: 750px;
+    border: black;
+    border-width: 1px;
+    border-style: solid;
+    color:black;
+    margin-bottom: 5px;
+    margin-top: 5px;
+}
+
+.card-header{
+    background-color: cornflowerblue;
+}
+
+.body{
+    background-image:linear-gradient(to right,blue,white,blue);
+}
+
+#info{
+    border-style: solid;
+    border-width: 1px;
+    border-color: black;
+    height: 125px;
+}
+
+#resume{
+    margin-left: 15px;
+}
